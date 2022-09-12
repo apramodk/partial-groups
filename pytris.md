@@ -35,6 +35,6 @@ People who want to play tetris with friends on the net and would like to host th
 ## Final note
 I use "tetris" in this proposal because the Tetris Company is very stringent about use of their trademark, the actual program would not use any Tetris branding.
 
-##Members
+## Members
 - Henry Brand - hbrandutk
 - Thomas Smith - lulamae12

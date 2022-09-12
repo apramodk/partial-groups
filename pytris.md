@@ -1,4 +1,4 @@
-#PyTris
+# PyTris
 
 ## Project Summary
 This project will be a multiplayer "tetris" game in which two players compete against one another over a local network. It will be a client server application pair that communicate to keep users' clients up to date on the current state of the match. 
